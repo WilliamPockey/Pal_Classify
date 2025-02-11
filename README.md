@@ -11,7 +11,12 @@
 `python manage.py runserver`
 
 ## 文件说明
+爬虫.ipynb：爬取帕鲁图片
 
-爬虫.py
+train.zip：图片预处理以及得到的训练集
+
+Resnet.ipynb：Resnet训练代码
+
+pal_classify：项目主体
 ## 相关链接
 https://blog.csdn.net/m0_62890769/article/details/145569584?spm=1001.2014.3001.5501
